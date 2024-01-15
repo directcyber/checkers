@@ -4,7 +4,7 @@ Files to check the existence of a vulnerability / patch.
 
 Care is taken to ensure that the checks are as legal and non-intrusive as possible, as we do our best to not exploit nor modify the target host.
 
-## Contributing'
+## Contributing
 
 Pull requests welcome! Please ensure your checker does not:
 
